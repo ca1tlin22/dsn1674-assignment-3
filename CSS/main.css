@@ -1,7 +1,42 @@
 html{
-  background-color:#dd8090;
+  background-color:#c5c3bb;
 }
 
 h1 {
   font-family: 'Raleway', sans-serif;
+  font-style: bold;
+}
+
+h2,h3 {
+  font-family: 'Raleway', sans-serif;
+  font-style: bold;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+blockquote {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+
+ol,ul,dl {
+  font-family: 'Open Sans', sans-serif;
+  list-style-type: none;
+}
+
+figcaption {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+}
+
+a {
+  color: #38b495;
+  font-family: 'Open Sans', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fff;
 }
