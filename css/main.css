@@ -5,14 +5,21 @@ html{
 h1 {
   font-family: 'Raleway', sans-serif;
   font-style: bold;
+  color:#4a4944;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-style: bold;
   color:#6c6a63;
 }
 
-h2,h3 {
+h3 {
   font-family: 'Raleway', sans-serif;
   font-style: bold;
   color:#929087;
 }
+
 
 p {
   font-family: 'Open Sans', sans-serif;
@@ -20,7 +27,12 @@ p {
 
 blockquote {
   font-family: 'Open Sans', sans-serif;
-  font-style: italic;
+  font-family: 'Pacifico', cursive;
+  font-weight: 100
+}
+
+cite {
+  color:#2d8e76;
 }
 
 ol,ul,dl {
@@ -34,7 +46,7 @@ figcaption {
 }
 
 a {
-  color: #38b495;
+  color: #2d8e76;
   font-family: 'Open Sans', sans-serif;
   text-decoration: none;
 }
@@ -45,4 +57,12 @@ a:hover {
 
 dl dt {
   font-weight: bolder;
+}
+
+.celest{
+  color:#2d8e76;
+}
+
+.round{
+  color:#2d8e76;
 }
